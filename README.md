@@ -1,4 +1,4 @@
 test
 ====
 
-just a temp thing
+This is a test of symlinks
