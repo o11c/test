@@ -1,0 +1,3 @@
+[submodule "sexpr"]
+	path = sexpr
+	url = git://github.com/o11c/sexpr.git
