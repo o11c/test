@@ -1,4 +1,4 @@
 test
 ====
 
-This is a test of symlinks
+This is a test of symlinks (and other stuff)
